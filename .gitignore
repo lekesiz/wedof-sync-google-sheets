@@ -1,0 +1,23 @@
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers d'environnement
+.env
+token.json
+
+# Fichiers de log
+*.log
+
+# Fichiers de build et de distribution
+build/
+dist/
+*.egg-info/
+
+# Fichiers de l'IDE
+.idea/
+.vscode/
+
+
